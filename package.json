@@ -1,0 +1,23 @@
+{
+  "name": "knapsack-algorithm",
+  "version": "1.0.0",
+  "description": "package challenge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "engines": {
+    "node": "v14.21.2"
+  },
+  "keywords": [
+    "knapsack",
+    "package",
+    "challenge"
+  ],
+  "author": "Michael Agboola <drexlar37@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
