@@ -32,6 +32,10 @@ npm run start
 npm run test
 ```
 
+`
+  To test a different file, you can simply add the file in the resources folder and update the filePath vairable in the index.js file.
+`
+
 For the Packer class, I used a combination of object-oriented programming (OOP), dynamic programming (DP), and file I/O operations in Node.js to address the task at hand.
 
 ### Object-Oriented Programming (OOP)
