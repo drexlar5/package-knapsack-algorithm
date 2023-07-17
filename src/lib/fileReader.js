@@ -1,3 +1,5 @@
+const APIException = require('./apiException');
+
 class FileReader {
   constructor() {
       this.fs = require('fs');

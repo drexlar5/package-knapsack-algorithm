@@ -12,7 +12,7 @@ class Packer {
       throw new APIException('Invalid filePath');
     }
 
-    const fileContent = this.fileReader.readFile(filePath);
+    const fileContent = await this.fileReader.readFile(filePath);
     const testCases = await parseInput(fileContent);
 
     let result = '';
