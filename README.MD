@@ -6,8 +6,8 @@ This is a knapsack algorithm app used to calculate the optimal load to send in a
 
 **Environments**
 
-- Node version - v12.16.3 (LTS)
-- NPM version - v6.14.17
+- Node version - v16.19.0
+- NPM version - v8.19.3
 
 **This application uses the following technologies:**
 
